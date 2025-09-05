@@ -1,3 +1,5 @@
+sudo apt update -y
+sudo apt upgrade -y
 sudo apt install -y openjdk-17-jdk
 wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.108/bin/apache-tomcat-9.0.108.tar.gz
 tar -zxvf apache-tomcat-9.0.108.tar.gz
